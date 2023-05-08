@@ -1,5 +1,9 @@
-### Hi there 👋
+Aspirante a Programador Back-end
 
+
+Olá, me chamo Luis Gustavo, tenho 23 anos e aspiro me tornar um programador há pouco mais de seis meses. Seis meses estes que passei estudando de forma autodidata para conseguir um emprego e enfim, começar minha graduação.
+Como alguém que sempre gostou de video games, eu acabava por sempre me questionar sobre o funcionamento deles. Isso me levou a internet, onde conheci os sites, e que só reforçaram minha curiosidade.
+Demorei um pouco para me arriscar com progração pois acreditava que a area era restrita a gênios da matematica. Mas uma vez que comecei a me aventurar, passei a enxergar muita coisa com outros olhos.
 <!--
 **dssluisgustavo/dssluisgustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
