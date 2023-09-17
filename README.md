@@ -1,6 +1,3 @@
-Aspirante a Designer Narrativo
-
-
 Olá, me chamo Luis Gustavo, tenho 23 anos e aspiro me tornar um designer narrativo.
 Tenho conhecimentos intermediários em C#, SQL e alguns conceitos como DDD e SOLID de forma autodidata e comecei a graduação de Game Designer pela Anhembi Morumbi. Atualmente estou no primeiro periodo.
 
