@@ -2,7 +2,7 @@ Olá, me chamo Luis Gustavo, tenho 23 anos e aspiro me tornar um designer narrat
 Tenho conhecimentos intermediários em C#, SQL e alguns conceitos como DDD e SOLID de forma autodidata e comecei a graduação de Game Designer pela Anhembi Morumbi. Atualmente estou no primeiro periodo.
 
 Como alguém que sempre gostou de video games, eu acabava por sempre me questionar sobre o funcionamento e criação deles. Isso me levou a internet onde conheci os sites, e que só reforçaram minha curiosidade.
-Demorei um pouco para me arriscar a estudar e a programação acabou sendo minha porta de entrada. Mas percebi que o que eu queria de fato não era ser um dev, e sim um game designer, mais especificamente um designer narrativo. E agora busco me ampliar técnicamente para conseguir adentrar o mercado como estagiário.
+Demorei um pouco para me arriscar a estudar e a programação acabou sendo minha porta de entrada. Mas percebi que o que eu queria de fato não era ser um dev e sim um game designer. E agora busco me ampliar técnicamente para conseguir adentrar o mercado como estagiário.
 <!--
 **dssluisgustavo/dssluisgustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
