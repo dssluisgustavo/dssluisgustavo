@@ -1,9 +1,8 @@
 Tenho 23 anos, sou da capital de São Paulo e estou me graduando em Game Design - 1º Período atualmente - pela Universidade Anhembi Morumbi.
- Apaixonado por games desde que me entendo por gente, acredito que demorei algum tempo para entender que poderia fazer da minha paixão, minha profissão.
+Estudo programação como autodidata por 2 anos e busco me tornar um dev fullstack, mas com foco em backend.
 
-Estudei programação como autodidata por 2 anos e busquei me desenvolver majoritariamente em C# e SQL, além de aprender sobre conceitos como SOLID e CRUD. Meu objetivo era, antes de games, conseguir um emprego no segmento da Web. 
-Por isso escolhi C#, com esta linguagem, eu poderia desempenhar no backend e também na Unity, engine a qual ainda estou aprendendo.
-Hoje, busco me aperfeiçoar como Game Designer especializado em Narrative design e Game Writer. Ainda estou dando os primeiros passos em direção a isso construindo meu portfólio.
+Busquei me desenvolver majoritariamente em .Net (C#) e SQL, além de aprender sobre patterns como DDD, MVC e SOLID.
+Construi algumas APIs para colocar em prática o conhecimento que adquiri.
 <!--
 **dssluisgustavo/dssluisgustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
